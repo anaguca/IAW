@@ -1,7 +1,8 @@
 # Nombre Apellido Apellido2
+· Valencia, España
 
-[Mi LinkedIn]([https://www.example.com](https://www.linkedin.com/))
-nombre.apellido@example.com · Valencia, España
+[Mi LinkedIn](https://www.linkedin.com/)
+**email de contacto:** nombre.apellido@example.com 
 
 ## Perfil
 Título de Ciclo Formativo de Grado Superior Administrador de Sistemas y Redes, orientada a backend y automatización. 
