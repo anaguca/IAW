@@ -20,9 +20,11 @@ Me gusta escribir código claro y documentado.
 
 ## Formación
 **Ciclo Formativo de Grado Superior Adminsitración de Sistemas y Redes** — IES Simarro (2022–2024)
+- Participacion Proyecto ERASMUS - La Valleta, Malta 2024
 
 ## Proyectos
 - **TaskBoard**: gestor de tareas con Flask y SQLite — [github.com/lromerog/taskboard](https://github.com/)
 
 ## Idiomas
-Español (nativo), Inglés (B2)
+Español (nativo)
+Inglés (B2)
