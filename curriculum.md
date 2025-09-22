@@ -1,6 +1,5 @@
 # Nombre Apellido Apellido2
 **email de contacto:** nombre.apellido@example.com 
-· Valencia, España
 
 [Mi LinkedIn](https://www.linkedin.com/)
 
