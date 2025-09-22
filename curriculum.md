@@ -18,15 +18,15 @@ Me gusta escribir código claro y documentado.
 **Ciclo Formativo de Grado Superior Adminsitración de Sistemas y Redes** — IES Simarro (2022–2024)
 
 ## Proyectos
-- **TaskBoard**: gestor de tareas con Flask y SQLite — [github.com/lromerog/taskboard](https://github.com/)
-- 
+- **TaskBoard**: gestor de tareas con Flask y SQLite — [github.com/nomape/taskboard](https://github.com/)
+  
 ## Habilidades
 - Python, Java, SQL
 - Git/GitHub, Docker
 - APIs REST, Flask
 - Pruebas (pytest)
 - Markdown, Hugo
-- 
+  
 ## Idiomas
 Español (nativo)
 Inglés (B2)
