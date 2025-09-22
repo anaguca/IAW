@@ -1,6 +1,8 @@
 # Nombre Apellido Apellido2
 
-[linkedin.com/in/nom-ape](https://www.linkedin.com/) · [github.com/nomeape(https://github.com/) · nombre.apellido@example.com · Valencia, España
+[Mi LinkedIn]([https://www.example.com](https://www.linkedin.com/))
+[github.com/nomeape(https://github.com/)
+nombre.apellido@example.com · Valencia, España
 
 ## Perfil
 Título de Ciclo Formativo de Grado Superior Administrador de Sistemas y Redes, orientada a backend y automatización. 
